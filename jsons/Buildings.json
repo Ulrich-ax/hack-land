@@ -14,7 +14,7 @@
 
 { "name": "Library of Three Thousand World", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Science] per [1] population [in all cities]", "[+35]% [Science] [in all cities]" ] }
 
-{ "name": "Capital Of Nexus", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Production] per [1] population [in all cities]", "[+50]% [Production] [in all cities]", "Quantity of strategic resources produced by the empire +[50]%", "[-50]% tile improvement construction time", ] }
+{ "name": "Capital Of Nexus", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Production] per [1] population [in all cities]", "[+50]% [Production] [in all cities]", "Quantity of strategic resources produced by the empire +[50]%", "[-50]% tile improvement construction time" ] }
   
 { "name": "The Savior", "isNationalWonder": true, "cost": 1, "uniques": [ "Destroyed when the city is captured", "All newly-trained [All] units [in all cities] receive the [Naraka Bless Ability] promotion", "[+1 Food, +1 Culture, +1 Faith, +1 Happiness] per [1] population [in all cities]" ] } 
 
