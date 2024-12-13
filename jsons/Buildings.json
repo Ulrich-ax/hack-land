@@ -6,7 +6,7 @@
 
 { "name": "Forgotten Mines", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Gold] per [1] population [in all cities]", "No Maintenance costs for improvements in [All] tiles", "[-1000]% maintenance costs <for [All] units>", "[-1000]% maintenance on road & railroads", "[-1000]% maintenance cost for buildings [in all cities]" ] }
 
-{ "name": "Theatre of the Damned", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Culture] per [1] population [in all cities]", "[+100]% Golden Age length", ] } 
+{ "name": "Theatre of the Damned", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Culture] per [1] population [in all cities]", "[+100]% Golden Age length" ] } 
 
 { "name": "Eternal Pleasure", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Happiness] per [1] population [in all cities]", "[10] Happiness from each type of luxury resource", "[-1000]% Unhappiness from [Population] [in all cities]" ] }
 
