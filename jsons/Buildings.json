@@ -1,6 +1,6 @@
 [ 
   
-{ "name": "Immortal Domain", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "When defeating a [All] unit, earn [1000] Gold", "All newly-trained [All] units [in all cities] receive the [Immortal Ability] promotion", "[5] Movement", "[+50]% Strength <vs [All] units>", "[+5] Range", "[3] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] } 
+{ "name": "Immortal Domain", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "When defeating a [All] unit", "All newly-trained [All] units [in all cities] receive the [Immortal Ability] promotion", "[5] Movement", "[+50]% Strength <vs [All] units>", "[+5] Range", "[3] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] } 
 
 { "name": "Inferno Ground", "uniqueTo": "Naraka", "cost": 1, "isWonder": true, "uniques": [ "[1] additional attacks per turn", "Destroyed when the city is captured", "Can only be built [in capital]", "Units fight as though they were at full strength even when damaged", "[1] Movement point cost to disembark", "[1] Movement point cost to embark", "No movement cost to pillage", "All newly-trained [All] units [in all cities] receive the [Inferno Ability] promotion" ] } 
 
